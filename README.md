@@ -1,1 +1,2 @@
-# mp25-Assign2
+# Tugas Pemrograman Bergerak
+### Membuat Aplikasi Sederhana
